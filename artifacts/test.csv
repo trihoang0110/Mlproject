@@ -1,0 +1,132 @@
+Company,TypeName,OpSys,Width,Heigth,IsTouchscreen,CpuProducer,CpuSpeed (GHz),HDD,Hybrid,SSD,Flash Storage,GpuProducer,Ram (GB),Weight (kg),Price_euros
+Dell,Notebook,Windows 10,1920,1080,No,Intel,1.6,1024,0,0,0,AMD,8,2.2,675.0
+MSI,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,128,0,Nvidia,8,2.7,1348.48
+MSI,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,256,0,Nvidia,16,2.8,2099.0
+Asus,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,128,0,Nvidia,16,2.1,1899.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,2.4,1024,0,0,0,Intel,6,2.3,459.0
+HP,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,1.6,0,0,256,0,Intel,8,1.26,1398.99
+Other,Ultrabook,Windows 10,3840,2160,Yes,Intel,2.5,0,0,512,0,Intel,16,1.29,1799.0
+Lenovo,Ultrabook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,1.32,1499.0
+HP,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,2.4,0,0,256,0,Intel,8,1.48,1629.0
+HP,Notebook,Windows 10,1920,1080,No,AMD,1.5,500,0,0,0,AMD,4,2.1,349.0
+Lenovo,Notebook,Windows 10,1366,768,No,Intel,1.6,0,0,0,64,Intel,2,1.5,229.0
+Dell,2 in 1 Convertible,Windows 10,3200,1800,Yes,Intel,1.3,0,0,512,0,Intel,8,1.24,2013.1
+Lenovo,Gaming,Windows 10,1920,1080,No,Intel,2.6,1024,0,128,0,Nvidia,8,2.6,1272.0
+Lenovo,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,128,0,Nvidia,8,2.5,1249.0
+Dell,Workstation,Windows 10,1920,1080,No,Intel,2.8,1024,0,0,0,Nvidia,8,2.23,1778.0
+Dell,Notebook,Linux,1920,1080,No,Intel,1.6,0,0,256,0,AMD,8,2.2,677.35
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.0,1024,0,0,0,Nvidia,4,2.2,468.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,2.0,1024,0,0,0,AMD,4,2.18,614.0
+HP,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,0,0,Nvidia,12,2.62,1799.0
+Other,Notebook,No OS,1920,1080,No,Intel,1.6,0,0,256,0,Nvidia,8,1.95,1199.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,2.6,500,0,0,0,Intel,4,1.93,959.0
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.3,0,0,256,0,Intel,8,2.3,1049.6
+HP,Notebook,Windows 10,1366,768,No,Intel,2.3,500,0,0,0,Intel,4,2.31,705.15
+Lenovo,Notebook,Windows 10,1600,900,No,Intel,2.3,1024,0,0,0,AMD,8,3.0,659.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,2.6,500,0,0,0,Intel,8,1.9,1008.52
+Dell,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,1.6,1024,0,0,0,Nvidia,12,2.77,999.0
+Dell,Workstation,Windows 10,1920,1080,Yes,Intel,2.8,0,0,256,0,Nvidia,8,2.06,1763.0
+HP,Notebook,Windows 10,1920,1080,No,Intel,2.5,500,0,0,0,AMD,8,1.9,1154.0
+HP,2 in 1 Convertible,Chrome OS,1366,768,Yes,Intel,1.1,0,0,0,32,Intel,4,1.4,615.0
+Asus,Gaming,Windows 10,1920,1080,Yes,Intel,2.6,1024,0,256,0,Nvidia,24,4.33,1269.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,2.4,1024,0,0,0,Intel,6,2.3,459.0
+Other,Gaming,Windows 10,3840,2160,Yes,Intel,2.9,0,0,1024,0,Nvidia,32,3.49,6099.0
+Lenovo,Notebook,Windows 10,1366,768,No,Intel,2.0,0,0,128,0,Intel,4,2.1,429.0
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.7,0,0,512,0,Intel,8,1.99,1729.0
+Dell,Ultrabook,Linux,1920,1080,No,Intel,2.8,0,0,256,0,Intel,8,1.6,1099.0
+HP,Notebook,No OS,1366,768,No,Intel,2.0,1024,0,0,0,Intel,4,1.86,345.99
+HP,Ultrabook,Windows 10,1920,1080,No,Intel,2.7,0,0,256,0,Intel,8,1.84,752.0
+HP,Notebook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,1.84,1228.99
+HP,2 in 1 Convertible,Windows 10,2560,1440,Yes,Intel,2.6,0,0,512,0,Intel,8,1.48,2041.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,1.6,500,0,0,0,Intel,4,2.2,443.99
+Toshiba,Notebook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,2.0,1258.0
+Lenovo,Notebook,No OS,1920,1080,No,Intel,2.5,2048,0,0,0,Intel,8,2.2,519.0
+Lenovo,Notebook,Windows 10,1920,1080,No,AMD,2.4,1024,0,0,0,AMD,6,2.4,499.0
+Dell,Notebook,Linux,1366,768,No,Intel,2.6,500,0,0,0,Intel,4,1.93,869.0
+Other,Gaming,Windows 10,1920,1080,No,Intel,2.8,0,0,512,0,Nvidia,16,1.95,2899.0
+Lenovo,2 in 1 Convertible,Windows 10,1920,1080,No,Intel,1.6,0,0,256,0,Intel,8,1.74,899.0
+Asus,Ultrabook,Windows 10,1920,1080,No,Intel,2.8,0,0,512,0,Nvidia,16,1.8,1983.0
+Asus,Notebook,Windows 10,1600,900,No,Intel,1.6,1024,0,0,0,Nvidia,4,2.8,530.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,1.6,1024,0,0,0,AMD,4,2.2,776.0
+Other,Ultrabook,Other,2256,1504,Yes,Intel,2.5,0,0,256,0,Intel,8,1.25,1799.0
+Dell,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,0,0,Nvidia,8,2.62,1199.0
+Acer,Notebook,Windows 10,1600,900,No,Intel,2.0,1024,0,0,0,Nvidia,8,3.3,629.0
+Dell,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,512,0,Nvidia,32,4.42,3072.89
+HP,2 in 1 Convertible,Windows 10,3840,2160,Yes,Intel,1.8,0,0,1024,0,Intel,16,1.29,2449.0
+Acer,Notebook,Linux,1366,768,No,Intel,1.6,500,0,0,0,Intel,4,2.4,289.0
+HP,Workstation,Windows 10,1920,1080,No,Intel,2.8,0,0,256,0,Nvidia,16,2.6,2419.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,2.4,0,0,256,0,Intel,8,1.56,1229.0
+Dell,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,1.6,0,0,256,0,Intel,8,1.62,819.0
+Asus,Notebook,Windows 10,1920,1080,No,Intel,1.6,0,0,256,0,Intel,8,1.4,941.0
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.6,1024,0,0,0,Nvidia,8,2.6,899.0
+Lenovo,Notebook,Windows 10,1366,768,No,AMD,2.2,0,0,128,0,AMD,4,2.2,349.0
+Acer,Notebook,Windows 10,1920,1080,No,Intel,1.8,0,0,256,0,Nvidia,8,2.2,841.0
+Asus,Notebook,Windows 10,1920,1080,No,Intel,2.7,0,0,256,0,Intel,8,2.0,1094.0
+Acer,Notebook,Windows 10,1920,1080,No,Intel,1.6,0,0,256,0,Intel,4,2.2,682.0
+HP,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,256,0,Nvidia,16,3.35,1379.0
+Lenovo,Ultrabook,Windows 10,1920,1080,No,Intel,2.7,0,0,256,0,Nvidia,6,1.54,831.0
+HP,Notebook,Windows 10,1920,1080,No,Intel,1.6,0,0,128,0,Intel,4,1.49,726.0
+Dell,Workstation,Windows 10,1920,1080,No,Intel,3.0,1024,0,0,64,Nvidia,8,2.23,1993.0
+Other,Notebook,Windows 10,1920,1080,No,Intel,1.1,0,0,32,0,Intel,4,1.2,369.0
+HP,Notebook,Windows 10,1920,1080,No,AMD,2.7,1024,0,0,0,AMD,6,2.1,529.0
+HP,Notebook,Windows 10,1366,768,No,AMD,1.8,500,0,0,0,AMD,4,1.86,297.0
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.9,0,0,256,0,Nvidia,8,2.67,2090.0
+Acer,Notebook,Windows 10,1920,1080,No,Intel,2.7,1024,0,0,0,Nvidia,4,2.2,530.0
+Dell,Ultrabook,Windows 10,1920,1080,No,Intel,1.6,0,0,256,0,Intel,8,1.6,1149.0
+Acer,Notebook,Windows 10,1366,768,No,AMD,2.2,1024,0,0,0,AMD,8,2.4,449.0
+Acer,Notebook,Chrome OS,1366,768,No,Intel,1.5,0,0,16,0,Intel,4,2.2,209.0
+Acer,Notebook,Windows 10,1920,1080,No,Intel,2.7,0,0,256,0,Nvidia,4,3.0,702.0
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.7,0,0,128,0,Intel,4,2.05,630.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,2.5,1024,0,0,0,AMD,8,2.36,638.8
+Lenovo,Notebook,Windows 10,1366,768,No,Intel,2.0,0,0,128,0,Intel,8,2.2,589.0
+Asus,Notebook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,2.0,945.0
+Lenovo,Notebook,No OS,1366,768,No,Intel,2.0,2048,0,0,0,Nvidia,8,2.2,459.0
+HP,Notebook,Windows 10,1920,1080,No,AMD,2.5,0,0,128,0,AMD,6,1.91,568.9
+Acer,Notebook,Linux,1920,1080,No,Intel,2.8,1024,0,0,0,Nvidia,8,2.4,779.0
+Dell,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,1.6,0,0,256,0,Intel,8,2.67,799.0
+Other,Notebook,Windows 10,1920,1080,No,Intel,1.44,0,0,0,32,Intel,2,1.4,239.0
+HP,Notebook,Windows 10,1920,1080,No,AMD,2.5,500,0,0,0,AMD,4,2.71,439.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,2.6,500,0,0,0,Intel,8,1.9,935.0
+Dell,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,1.6,1024,0,0,0,Intel,8,1.55,659.0
+Acer,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,2.0,0,0,0,32,Intel,4,1.25,349.0
+Apple,Ultrabook,macOS,2304,1440,No,Intel,1.3,0,0,512,0,Intel,8,0.92,1510.0
+Dell,2 in 1 Convertible,Windows 10,3200,1800,Yes,Intel,1.2,0,0,256,0,Intel,8,1.24,1813.0
+Dell,Ultrabook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,1.29,1499.0
+Lenovo,Workstation,Windows 10,1920,1080,No,Intel,2.8,0,0,512,0,Nvidia,8,2.67,1925.0
+Lenovo,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,0,0,Nvidia,4,2.4,999.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,2.5,1024,0,0,0,Intel,4,2.25,559.0
+Asus,Gaming,Windows 10,1920,1080,No,Intel,2.5,1024,0,128,0,Nvidia,8,2.73,1770.0
+Acer,Notebook,Windows 10,1920,1080,No,Intel,1.1,0,0,0,32,Intel,4,1.6,329.0
+Dell,Notebook,Linux,1920,1080,No,Intel,2.7,1024,0,0,0,AMD,8,2.83,865.0
+Dell,Notebook,Windows 10,1366,768,No,Intel,2.7,1024,0,0,0,Intel,12,2.3,713.07
+Lenovo,Notebook,No OS,1920,1080,No,Intel,2.7,1024,0,0,0,Nvidia,8,2.2,659.01
+Asus,Ultrabook,Windows 10,1920,1080,No,Intel,2.3,0,0,512,0,Nvidia,8,1.45,1026.0
+Acer,Notebook,Windows 10,1366,768,No,Intel,2.0,500,0,0,0,Intel,4,2.4,410.8
+Lenovo,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,2.5,0,0,256,0,AMD,8,2.08,959.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,1.6,2048,0,0,0,AMD,8,2.02,759.0
+Lenovo,Ultrabook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,1.36,1429.0
+Toshiba,Notebook,Windows 10,1366,768,No,Intel,2.3,0,0,256,0,Intel,8,1.5,1210.0
+HP,Notebook,Windows 10,1366,768,No,Intel,2.5,500,0,0,0,Intel,4,2.04,742.0
+Asus,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,128,0,Nvidia,8,2.3,1655.0
+Dell,Gaming,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Nvidia,8,2.56,879.0
+Dell,Notebook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,1.6,859.0
+HP,Notebook,Windows 10,1366,768,No,Intel,2.5,0,0,256,0,Intel,4,2.04,979.0
+Asus,Notebook,Windows 10,1920,1080,No,Intel,2.5,1024,0,0,0,Intel,8,2.37,749.0
+Lenovo,2 in 1 Convertible,Windows 7,1920,1080,Yes,Intel,2.6,0,0,512,0,Nvidia,8,1.8,2050.38
+HP,Notebook,Windows 10,1366,768,No,AMD,1.5,500,0,0,0,AMD,4,2.1,330.0
+MSI,Gaming,Windows 10,1920,1080,No,Intel,2.8,2048,0,256,0,Nvidia,16,2.43,2449.0
+Lenovo,Workstation,Windows 10,3840,2160,No,Intel,2.8,0,0,1024,0,Nvidia,16,2.5,3299.0
+HP,Notebook,Windows 10,1366,768,No,Intel,2.4,0,0,256,0,Intel,4,1.48,1099.99
+HP,Notebook,Windows 10,1366,768,No,Intel,2.5,1024,0,0,0,Nvidia,8,2.04,846.5
+Lenovo,Notebook,Windows 10,1366,768,No,Intel,1.6,0,0,0,64,Intel,2,1.5,229.0
+Dell,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,2.7,0,0,256,0,Intel,8,2.3,1094.0
+MSI,Gaming,Windows 10,1920,1080,No,Intel,2.8,1024,0,256,0,Nvidia,16,2.94,2267.86
+Dell,Notebook,Windows 10,1366,768,Yes,Intel,2.5,2048,0,0,0,Intel,8,2.36,557.37
+Lenovo,Notebook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Nvidia,6,2.4,695.0
+Toshiba,Notebook,Windows 10,1920,1080,No,Intel,2.5,0,0,256,0,Intel,8,1.05,1672.0
+Asus,Notebook,Windows 10,1366,768,No,Intel,1.1,1024,0,0,0,Nvidia,4,2.8,466.0
+HP,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,2.5,0,0,256,0,Intel,8,1.28,2277.0
+Acer,2 in 1 Convertible,Windows 10,1920,1080,Yes,Intel,2.5,0,0,256,0,Intel,8,1.6,789.01
+Dell,Workstation,Windows 10,1920,1080,No,Intel,2.9,0,0,256,0,Nvidia,16,3.42,2884.86
+HP,Ultrabook,Windows 10,1920,1080,No,Intel,1.8,0,0,256,0,Nvidia,8,1.83,699.0
+HP,Notebook,Windows 10,1920,1080,No,Intel,1.8,0,0,512,0,Nvidia,16,2.5,1271.0
